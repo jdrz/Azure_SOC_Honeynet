@@ -44,11 +44,11 @@ Stop Time 2023-03-16 17:04:29
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 19470
-| Syslog                   | 3028
-| SecurityAlert            | 10
-| SecurityIncident         | 348
-| AzureNetworkAnalytics_CL | 843
+| SecurityEvent            | 87674
+| Syslog                   | 4575
+| SecurityAlert            | 5
+| SecurityIncident         | 249
+| NSG Inbound Flow Allowed | 949 
 
 ## Attack Maps Before Hardening / Security Controls
 
@@ -62,11 +62,11 @@ Stop Time	2023-03-19 15:37
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 8778
+| SecurityEvent            | 1627
 | Syslog                   | 25
 | SecurityAlert            | 0
 | SecurityIncident         | 0
-| AzureNetworkAnalytics_CL | 0
+| NSG Inbound Flow Allowed | 0
 
 ## Conclusion
 
